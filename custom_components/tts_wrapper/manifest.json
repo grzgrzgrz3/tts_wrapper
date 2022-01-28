@@ -1,0 +1,13 @@
+{
+  "domain": "tts_wrapper",
+  "name": "Tts Wrapper",
+  "documentation": "https://github.com/grzgrzgrz3/tts_wrapper.git",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/grzgrzgrz3/tts_wrapper.git",
+  "version": "0.0.1",
+  "config_flow": true,
+  "requirements": ["ffmpeg-python==0.2.0"],
+  "codeowners": [
+    "@grzgrzrgz3"
+  ]
+}
