@@ -2,7 +2,7 @@
     "name": "Tts Wrapper",
     "hacs": "1.6.0",
     "domains": [
-        "tts",
+        "tts"
     ],
     "homeassistant": "2021.12.9"
 }
